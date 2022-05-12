@@ -1,9 +1,12 @@
 
 import './App.css';
+import {HomePage} from './views/homepage'
+
 
 function App() {
   return (
     <>
+    
     {/*navbar start*/}
     <nav class="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: '#FDC5F5' }}>
       <div class="container-fluid">
@@ -74,9 +77,15 @@ function App() {
     </nav>
 
     {/*navbar end*/}
+    
+    <HomePage/>
+    <br></br>
+		<hr/>
+		<br></br>
 
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    
+
+   
 
   </>
  
