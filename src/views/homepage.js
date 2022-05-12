@@ -5,7 +5,7 @@ export const HomePage = () => {
     return (
         <>
         <div className="container mt-4">
-			<div className="row">
+			<div  className="row">
 
 				<div className="col-12 col-md-6 mb-1"  >
 

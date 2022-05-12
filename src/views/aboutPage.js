@@ -16,7 +16,7 @@ export const AboutPage = () => {
          <div class="container mb-5" >
                 <br></br>
                 <p class="text-center" style={{fontFamily:'Bubblegum Sans, cursive',
-            fontSize:'3rem'}}><i>OUR STORY</i></p>
+            fontSize:'3rem'}}><i >OUR STORY</i></p>
                 <div class="row row-cols-md-2 row-cols-lg-3 g-5 ">
                     <div class="col">
                         <div class="card mx-auto p-3 pb-4 h-100" style={{ width: '19rem',

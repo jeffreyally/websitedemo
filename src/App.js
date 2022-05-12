@@ -14,7 +14,8 @@ function App() {
     <>
     
     
-    <NavBar/>
+    <NavBar />
+    
     <HomePage/>
     <br></br>
 		<hr/>
@@ -24,16 +25,16 @@ function App() {
 			
 		
     <br></br>
-		<hr/>
+		<hr id="flavors"/>
 		<br></br>
     <Flavors/>
     <br></br>
-		<hr/>
+		<hr id='about'/>
 		<br></br>
     <AboutPage/>
     <br></br>
-		<hr/>
-		<br></br>
+		<hr id="contact"/>
+		<br ></br>
     <ContactPage/>
     <br></br>
     <br></br>

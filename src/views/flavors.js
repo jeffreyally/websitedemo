@@ -7,7 +7,7 @@ export const Flavors = () => {
         <div class="container">
             <br></br>
   <p class="text-center" style={{fontFamily:'Bubblegum Sans, cursive',
-            fontSize:'3rem'}}><i>OUR FLAVORS</i></p>
+            fontSize:'3rem'}}><i >OUR FLAVORS</i></p>
             <br></br>
             
             <span style={{fontSize:'2.25rem', fontFamily: ' Bebas Neue, cursive'}}>Classic Vanilla Sugar Cookie  </span>

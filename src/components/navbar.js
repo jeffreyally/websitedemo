@@ -4,7 +4,7 @@ export const NavBar = () => {
 
     return (
         <>
-        
+        <span  id='home'></span>
     <nav class="navbar sticky-top navbar-expand-lg navbar-light" style={{ backgroundColor: '#FDC5F5' }}>
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
@@ -26,19 +26,19 @@ export const NavBar = () => {
                     <div class="row">
                       <div class="col-lg">
                         <div class="nav-item me-5">
-                          <a href="#" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>Home</a>
+                          <a href="#home" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>Home</a>
                         </div>
                       </div>
                       <div class="col-lg">
                         <div class="nav-item me-5">
 
-                          <a  href="#" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>Flavors</a>
+                          <a  href="#flavors" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>Flavors</a>
                         </div>
                       </div>
                       <div class="col-lg">
                         <div class="nav-item me-5">
 
-                          <a  href="#" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>About</a>
+                          <a  href="#about" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>About</a>
                         </div>
                       </div>
                       <div class="col-lg">
@@ -50,7 +50,7 @@ export const NavBar = () => {
                       <div class="col-lg">
                         <div class="nav-item me-5">
 
-                          <a  href="#" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>Contact</a>
+                          <a  href="#contact" style={{ color: '#B388EB ', fontFamily: 'Coustard, serif' }}>Contact</a>
                         </div>
                       </div>
                     </div>

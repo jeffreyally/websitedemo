@@ -10,7 +10,7 @@ export const ContactPage = () =>  {
       <p class="text-center" style={{
         fontFamily: 'Bubblegum Sans, cursive',
         fontSize: '3rem'
-      }}><i>CONTACT US</i></p>
+      }}><i >CONTACT US</i></p>
 
       <div class="row d-flex justify-content-center  mt-3 no-gutters">
 
