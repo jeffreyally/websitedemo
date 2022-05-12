@@ -6,6 +6,7 @@ import {Flavors} from './views/flavors'
 import  {AboutPage} from './views/aboutPage'
 import {ContactPage} from './views/contactPage'
 import {NavBar} from './components/navbar'
+import {Footer} from './components/footer'
 
 
 function App() {
@@ -34,8 +35,10 @@ function App() {
 		<hr/>
 		<br></br>
     <ContactPage/>
-    
-    
+    <br></br>
+    <br></br>
+    <br></br>
+    <Footer/>
 
 
     

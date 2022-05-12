@@ -5,12 +5,12 @@ export const NavBar = () => {
     return (
         <>
         
-    <nav class="navbar navbar-expand-lg navbar-light" style={{ backgroundColor: '#FDC5F5' }}>
+    <nav class="navbar sticky-top navbar-expand-lg navbar-light" style={{ backgroundColor: '#FDC5F5' }}>
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
           <div style={{ display: 'flex', flexDirection: 'column' }}>
-            <p class='BakedAndIced' style={{ fontFamily: ' Bebas Neue, cursive' }}>Baked + Iced</p>
-            <p class='ByArelys' style={{ fontFamily: 'Bebas Neue, cursive', textAlign: 'center' }}>By Arelys</p>
+            <p class='BakedAndIced' style={{ fontFamily: ' Bebas Neue, cursive', marginBottom:'0' }}>Baked + Iced</p>
+            <p class='ByArelys' style={{ fontFamily: 'Bebas Neue, cursive', textAlign: 'center',marginBottom:'0' }}>By Arelys</p>
           </div>
 
         </a>

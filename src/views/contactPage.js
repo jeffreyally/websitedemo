@@ -31,17 +31,17 @@ export const ContactPage = () =>  {
 
             <form target="_blank" action="https://formsubmit.co/7801e72aca46261f4264461e4ada688a" method="POST">
             <input type="text" name="_honey" style={{display:'none'}}/>
-              <div class="row pb-2 mt-4">
+              <div class="row">
 
 
-                <div class="col-md-6">
+                <div class="col-md-6 my-2">
                   <label for="yourname" class="form-label" style={{fontFamily:'Roboto, sans-serif'}}>Name</label>
                   <input type="text" id="yourname" name="name" class="form-control " placeholder="Full Name" required />
 
                 </div>
                 
 
-                <div class="col-md-6">
+                <div class="col-md-6 my-2">
                   <label for="youremail" class="form-label" style={{fontFamily:'Roboto, sans-serif'}}>Email address</label>
 
                   <input type="email" id="youremail" name="email" class="form-control" placeholder="Email Address" required />
@@ -49,7 +49,7 @@ export const ContactPage = () =>  {
                 </div>
               </div>
 
-              <div class="row">
+              <div class="row my-2">
                 <div class="col-md-12">
 
                   <label for="yourmessage" class="form-label" style={{fontFamily:'Roboto, sans-serif'}}>Message</label>
@@ -60,7 +60,7 @@ export const ContactPage = () =>  {
 
               </div>
 
-              <div class="row py-2 ">
+              <div class="row my-3 ">
                 <div class="col">
                 <button type="submit" class=" btn btn-primary">Submit</button>
                 </div>
