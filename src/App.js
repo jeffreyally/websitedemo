@@ -1,7 +1,9 @@
 
 import './App.css';
-import {HomePage} from './views/homepage'
+import {HomePage} from './views/homePage'
 import {CookieCarousel} from './components/cookiecarousel'
+import {Flavors} from './views/flavors'
+import  {AboutPage} from './views/aboutPage'
 
 
 function App() {
@@ -94,6 +96,11 @@ function App() {
     <br></br>
 		<hr/>
 		<br></br>
+    <Flavors/>
+    <br></br>
+		<hr/>
+		<br></br>
+    <AboutPage/>
     
     
 
