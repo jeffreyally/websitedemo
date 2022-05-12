@@ -10,6 +10,9 @@ export const CookieCarousel = () => {
 
     return(
         <>
+		<p class="text-center" style={{fontFamily:'Bubblegum Sans, cursive',
+            fontSize:'3rem'}}><i>CHECK OUT OUR COOKIES</i></p>
+			<br></br>
         <div id="carouselExampleInterval" class=" carousel slide carousel carousel-dark" data-bs-ride="carousel" >
 				<div class="carousel-inner">
 					<div class="carousel-item active" data-bs-interval="90000" style={{ position: 'relative' }}>
@@ -93,6 +96,8 @@ export const CookieCarousel = () => {
 					<span class="visually-hidden">Next</span>
 				</button>
 			</div>
+			<br></br>
         </>
+		
     )
 }
