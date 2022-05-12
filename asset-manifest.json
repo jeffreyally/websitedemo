@@ -1,16 +1,27 @@
 {
   "files": {
     "main.css": "/websitedemo/static/css/main.c2263907.css",
-    "main.js": "/websitedemo/static/js/main.b0cf4b7d.js",
+    "main.js": "/websitedemo/static/js/main.dd62082a.js",
     "static/js/787.6a0383d7.chunk.js": "/websitedemo/static/js/787.6a0383d7.chunk.js",
+    "static/media/StandMixer.jpeg": "/websitedemo/static/media/StandMixer.e06778e9eee58cef95d4.jpeg",
+    "static/media/springflowers.jpeg": "/websitedemo/static/media/springflowers.471ef6a7bdeb323f1fe1.jpeg",
+    "static/media/GiantDonut.jpeg": "/websitedemo/static/media/GiantDonut.2ac9ba8c1f06781db886.jpeg",
+    "static/media/AnniversaryCookies.jpeg": "/websitedemo/static/media/AnniversaryCookies.e76253ec67097c123a03.jpeg",
+    "static/media/wedding1.jpeg": "/websitedemo/static/media/wedding1.e76253ec67097c123a03.jpeg",
+    "static/media/wedding2.jpeg": "/websitedemo/static/media/wedding2.db3d2733f404d4121770.jpeg",
+    "static/media/spring.jpeg": "/websitedemo/static/media/spring.ef4de2e80d550a28ee6b.jpeg",
+    "static/media/babyshower.jpeg": "/websitedemo/static/media/babyshower.656b930ac027cf5ea33a.jpeg",
+    "static/media/Sunflower.jpeg": "/websitedemo/static/media/Sunflower.afe8c557a0958f386c20.jpeg",
+    "static/media/WeddingCookies.jpeg": "/websitedemo/static/media/WeddingCookies.d04ef6d27e98ac9e1fde.jpeg",
+    "static/media/MiniWhisk.jpeg": "/websitedemo/static/media/MiniWhisk.78b95b52e5f64517285e.jpeg",
     "static/media/fulllogo.jpeg": "/websitedemo/static/media/fulllogo.135da3f572ecd75683e0.jpeg",
     "index.html": "/websitedemo/index.html",
     "main.c2263907.css.map": "/websitedemo/static/css/main.c2263907.css.map",
-    "main.b0cf4b7d.js.map": "/websitedemo/static/js/main.b0cf4b7d.js.map",
+    "main.dd62082a.js.map": "/websitedemo/static/js/main.dd62082a.js.map",
     "787.6a0383d7.chunk.js.map": "/websitedemo/static/js/787.6a0383d7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2263907.css",
-    "static/js/main.b0cf4b7d.js"
+    "static/js/main.dd62082a.js"
   ]
 }
