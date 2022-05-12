@@ -1,6 +1,7 @@
 
 import './App.css';
 import {HomePage} from './views/homepage'
+import {CookieCarousel} from './components/cookiecarousel'
 
 
 function App() {
@@ -82,6 +83,20 @@ function App() {
     <br></br>
 		<hr/>
 		<br></br>
+    <div className="container">
+			
+		<p class="text-center" style={{fontFamily:'Bubblegum Sans, cursive',
+            fontSize:'3rem'}}><i>CHECK OUT OUR COOKIES</i></p>
+			<br></br>
+			<CookieCarousel/>
+			<br></br>
+		</div>
+    <br></br>
+		<hr/>
+		<br></br>
+    
+    
+
 
     
 
