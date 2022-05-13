@@ -1,6 +1,6 @@
 # Baked and Iced by Arelys
 
-A simple landing page made for my wife's business.
+A simple landing page that is currently in development for my wife's business.
 
 ## Description
 
@@ -8,45 +8,17 @@ This website was made using HTML, CSS, JavaScript, React, and Bootstrap. It is f
 
 ## Getting Started
 
-### Dependencies
+A demo of this website is being hosted on Github Pages and can be seen here: https://jeffreyally.github.io/websitedemo/
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
+C
 
-ex. Dominique Pizzie  
+Jeffrey Ally 
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+ Initial Release
 
 ## License
 
