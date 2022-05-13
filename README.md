@@ -15,8 +15,8 @@ A demo of this website is being hosted on Github Pages and can be seen here: htt
 
 C
 
-Jeffrey Ally 
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Jeffrey Ally - jeffreyally@gmail.com
+
 
  Initial Release
 
