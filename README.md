@@ -19,5 +19,9 @@ Jeffrey Ally - jeffreyally@gmail.com
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [FormSubmit](https://formsubmit.co/) ghgh
+* [FormSubmit](https://formsubmit.co/) 
+* [MDB](https://mdbootstrap.com/) 
+* [4Geeks Academy](https://4geeksacademy.com/)
+
+
 
